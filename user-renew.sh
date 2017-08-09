@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script Perpanjang User SSH
-#Adam M - 089639714655
+#ilhamMuhammad - teesss
 
 read -p "Username : " Login
 read -p "Password Baru : " Pass
